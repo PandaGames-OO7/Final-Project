@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "64a55bcd47002bdf35a7a683"
+  },
+  "value": "smartphones",
+  "label": "smartphones",
+  "checked": false
+},
+{
+  "_id": {
+    "$oid": "64a55bcd47002bdf35a7a684"
+  },
+  "value": "laptops",
+  "label": "laptops",
+  "checked": false
+},
+{
+  "_id": {
+    "$oid": "64a55bcd47002bdf35a7a685"
+  },
+  "value": "fragrances",
+  "label": "fragrances",
+  "checked": false
+},
+{
+  "_id": {
+    "$oid": "64a55bcd47002bdf35a7a686"
+  },
+  "value": "skincare",
+  "label": "skincare",
+  "checked": false
+},
+{
+  "_id": {
+    "$oid": "64a55bcd47002bdf35a7a687"
+  },
+  "value": "groceries",
+  "label": "groceries",
+  "checked": false
+},
+{
+  "_id": {
+    "$oid": "64a55bcd47002bdf35a7a688"
+  },
+  "value": "home-decoration",
+  "label": "home decoration",
+  "checked": false
+},
+{
+  "_id": {
+    "$oid": "64a55bcd47002bdf35a7a689"
+  },
+  "value": "furniture",
+  "label": "furniture",
+  "checked": false
+},
+{
+  "_id": {
+    "$oid": "64a55bcd47002bdf35a7a68a"
+  },
+  "value": "tops",
+  "label": "tops",
+  "checked": false
+},
+{
+  "_id": {
+    "$oid": "64a55bcd47002bdf35a7a68b"
+  },
+  "value": "womens-dresses",
+  "label": "womens dresses",
+  "checked": false
+},
+{
+  "_id": {
+    "$oid": "64a55bcd47002bdf35a7a68c"
+  },
+  "value": "womens-shoes",
+  "label": "womens shoes",
+  "checked": false
+},
+{
+  "_id": {
+    "$oid": "64a55bcd47002bdf35a7a68d"
+  },
+  "value": "mens-shirts",
+  "label": "mens shirts",
+  "checked": false
+},
+{
+  "_id": {
+    "$oid": "64a55bcd47002bdf35a7a68e"
+  },
+  "value": "mens-shoes",
+  "label": "mens shoes",
+  "checked": false
+},
+{
+  "_id": {
+    "$oid": "64a55bcd47002bdf35a7a68f"
+  },
+  "value": "mens-watches",
+  "label": "mens watches",
+  "checked": false
+},
+{
+  "_id": {
+    "$oid": "64a55bcd47002bdf35a7a690"
+  },
+  "value": "womens-watches",
+  "label": "womens watches",
+  "checked": false
+},
+{
+  "_id": {
+    "$oid": "64a55bcd47002bdf35a7a691"
+  },
+  "value": "womens-bags",
+  "label": "womens bags",
+  "checked": false
+},
+{
+  "_id": {
+    "$oid": "64a55bcd47002bdf35a7a692"
+  },
+  "value": "womens-jewellery",
+  "label": "womens jewellery",
+  "checked": false
+},
+{
+  "_id": {
+    "$oid": "64a55bcd47002bdf35a7a693"
+  },
+  "value": "sunglasses",
+  "label": "sunglasses",
+  "checked": false
+},
+{
+  "_id": {
+    "$oid": "64a55bcd47002bdf35a7a694"
+  },
+  "value": "automotive",
+  "label": "automotive",
+  "checked": false
+},
+{
+  "_id": {
+    "$oid": "64a55bcd47002bdf35a7a695"
+  },
+  "value": "motorcycle",
+  "label": "motorcycle",
+  "checked": false
+},
+{
+  "_id": {
+    "$oid": "64a55bcd47002bdf35a7a696"
+  },
+  "value": "lighting",
+  "label": "lighting",
+  "checked": false
+}]
